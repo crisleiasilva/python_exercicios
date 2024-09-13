@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa6e555-7e40-40cf-ba6d-fffe3dff9caf" name="Changes" comment="exercícios pythonExercicios.iml">
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex021.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +70,27 @@
     "Python.ex011.executor": "Run",
     "Python.ex012.executor": "Run",
     "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Crislei/PycharmProjects/pythonExercicios"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Crislei\PycharmProjects\pythonExercicios" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725642888222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercícios pythonExercicios.iml">
+      <option name="closed" value="true" />
+      <created>1725972241881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725972241881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
